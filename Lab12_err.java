@@ -1,4 +1,4 @@
-package tw.edu.niu.csie.clx;
+package a
 public static void foo(){ int bar = 0; }
 public class Lab12 {
   public static void main(String[] args){
