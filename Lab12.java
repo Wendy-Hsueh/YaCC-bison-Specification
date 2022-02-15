@@ -1,4 +1,4 @@
-package 
+package a
 public class Lab12 {
   public static void main(String[] args){
     int sum;
